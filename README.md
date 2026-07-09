@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sandhiyamurugesan2206/practise/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Sandhiyamurugesan2206/practise/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sandhiyamurugesan2206/practise/tree/master/0043-multiply-strings) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Sandhiyamurugesan2206/practise/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
